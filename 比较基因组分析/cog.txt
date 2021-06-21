@@ -1,0 +1,1 @@
+﻿/plus/work/soft/bin/blast/blastp -query FYNDL5M1.fasta -db /plus/work/soft/ncbi-blast-2.7.1+/db/cog_clean.fa -num_threads 1  -evalue 1e-5 -outfmt 5 -out XJCJ4-4-2.faa.out
